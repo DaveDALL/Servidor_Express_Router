@@ -52,4 +52,6 @@ Durante el proceso, se verificará que el producto que agregará al cart, exista
 
 NOTA: La implementación de la persitencia, los métodos de busqueda, de crecación y actualziación se realizan mendiante la clase **CartManager**. Desde esta clase se genera el ID del Cart de forma automática y son repetición. La persistencia se almacena en el archivo **carts.json**.
 
+NOTA2: Se implementa **NODEMON** y se crea script en **package.json**, por lo que el servidor se ejecuta con **npm start**
+
 # FIN
